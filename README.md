@@ -140,17 +140,21 @@ The dataset `online_shoppers.csv` includes the following columns:
 
 
 2. Install dependencies (if running locally):
-    pip install pandas matplotlib
+   
+       pip install pandas matplotlib
 
 
-3. Launch the notebook:
-    jupyter notebook RFM.ipynb
+4. Launch the notebook:
+   
+       jupyter notebook RFM.ipynb
 
 
 
 🏁 Final Words
+
 This RFM project is an excellent starting point for anyone looking to break into business/data analytics or enhance customer segmentation skills.
 
 If you find this helpful, give it a ⭐ and spread the knowledge!
+
 Let’s build smarter customer strategies together 🚀
    
